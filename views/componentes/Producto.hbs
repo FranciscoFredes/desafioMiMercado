@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<div class="row">
+    {{#each verduras}}
+    <div class="col-md-4 my-4">
+        <div class="card">
+            <img src="/assets/img/{{ imagen }}" alt="{{ name }}" class="card-img-top img-fluid mx-auto" style="width: 150px;">
+            <div class="card-body">
+                <h5 class="card-title">{{ name }}</h5>
+            </div>
+        </div>
+    </div>
+{{/each}}
+
+</div>
+
+

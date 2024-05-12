@@ -1,0 +1,28 @@
+{
+  "verduras": [
+    {
+      "name": "Banana",
+      "imagen": "banana.png"      
+    },
+    {
+      "name": "Cebollas",
+      "imagen": "cebollas.png"
+    },
+    {
+      "name": "Lechuga",
+      "imagen": "lechuga.png"
+    },
+    {
+      "name": "Papas",
+      "imagen": "papas.png"
+    },
+    {
+      "name": "Pimenton",
+      "imagen": "pimenton.png"
+    },
+    {
+      "name": "Tomate",
+      "imagen": "tomate.png"
+    }   
+  ]
+}
